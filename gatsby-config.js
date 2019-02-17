@@ -18,8 +18,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `ftl-mv`,
+        short_name: `ftl-mv`,
         start_url: `/`,
         background_color: `#333`,
         theme_color: `#333`,
