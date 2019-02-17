@@ -29,8 +29,6 @@ const Layout = ({ children }) => (
         >
           <main>{children}</main>
           <footer style={{ marginTop: "1rem" }}>
-            © {new Date().getFullYear()}, Fait par
-            {` `}
             <a href="https://shamann.fr">Sylvain Hamann</a>
           </footer>
         </div>
