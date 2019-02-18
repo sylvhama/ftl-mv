@@ -29,7 +29,7 @@ const Layout = ({ children }) => (
         >
           <main>{children}</main>
           <footer style={{ marginTop: "1rem" }}>
-            <a href="https://shamann.fr">Sylvain Hamann</a>
+            Fait par <a href="https://shamann.fr">Sylvain Hamann</a>
           </footer>
         </div>
       </>
